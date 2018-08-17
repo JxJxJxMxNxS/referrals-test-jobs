@@ -472,6 +472,28 @@ ke pezzzzz3333333333333333.
 * Quick learner, excellent problem-solving skills, visionary3
 * Please submit a portfolio that demonstrates designs for web/mobile.3
 
+## Test3 Opening
+🌵⚡️
+
+ke pezzzzz3333333333333333.
+
+### Role Definition
+* huehue4
+* sopa du macaco uma delicia34
+* hue hue34
+
+### Requirements
+* juejuejeueu34
+* sopa du macacooooooooo34
+
+### Minimum Skills Required:
+* Currently enrolled in a Bachelor’s degree, preferably in a design-related field (0-2 years)34
+* Fluent in English (Writing and speaking)34
+* Demonstrated proficiency in the Adobe Suite of software (Sketch in particular)34
+* Quickly visualize and prototype ideas to communicate designs34
+* Quick learner, excellent problem-solving skills, visionary34
+* Please submit a portfolio that demonstrates designs for web/mobile.34
+
 ## Credit
 
 Inspired by [npm/jobs](https://github.com/npm/jobs)
